@@ -3,6 +3,6 @@
   <p>Run Shizuku quickly with shells.</p>
 <hr>
   <h2>Download</h2>
-  (https://dzzdrzrx.github.io/)
+<p>Go to Release Pages.</p>
 <hr>
   </div>
